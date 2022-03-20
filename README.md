@@ -1,3 +1,3 @@
 # just-tech-news
 
-** Last Update: 13.1.6 : Implement CRUD Actions
+** Last Update: Finished Mod 13.2
