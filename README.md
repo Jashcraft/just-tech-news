@@ -1,3 +1,3 @@
 # just-tech-news
 
-** Last Update: Finished Mod 13.2
+** Last Update: Start on page 13.4.6
